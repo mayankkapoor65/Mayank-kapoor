@@ -1,12 +1,46 @@
-# Mayank-kapoor
-About Me
 # 👋 Hi, I'm Mayank Kapoor  
 
-## 🚀 About Me  
-- 🌱 Currently learning **Full Stack Development**  
-- 💻 Interested in **Web Development & Cloud Computing**  
-- 🎯 Goal: To become a **Software Engineer**  
-- ⚡ Fun fact: I love solving coding problems and exploring new tech.  
+🚀 **Aspiring Software Engineer | Full Stack Developer**  
+
+A passionate tech enthusiast who loves building things for the web and exploring cloud technologies.  
+I believe in learning by doing — writing code, breaking it, fixing it, and growing every day.
+
+---
+
+## 💡 What I'm Learning & Building
+- 🌐 **Full Stack Web Development** (React, Node.js, Express, REST API, )
+- ☁️ **Cloud Computing & DevOps Basics**(AWS, EC2)
+- 🧠 **Problem Solving & Data Structures**
+
+---
+
+## 🛠️ Skills & Tools
+**Languages:**  
+JavaScript • Python • C++  
+
+**Frontend:**  
+React • HTML • CSS  
+
+**Backend:**  
+Node.js • Express.js, Django(lerning)  
+
+**Databases:**  
+MySQL • MongoDB  
+
+**Tools & Platforms:**  
+Git • Docker • Postman  
+
+---
+
+## 🎯 Career Goal
+To become a **skilled Software Engineer** who builds scalable, real-world applications and contributes to impactful projects.
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving coding problems and exploring new technologies in my free time.
+
+---
 
 ## 🛠 Skills    
 <p align="left">  
@@ -24,8 +58,18 @@ About Me
 </p>  
 
 
+---
 
-## 📫 Connect with Me  
-- 📧 Email:Mayankkappor54@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/mayankkapoor]([https://linkedin.com/in/mayankkapoor]
-- 🐙 GitHub: [github.com/mayankkapoor](https://github.com/mayankkapoor)  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankkapoor&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkapoor&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with Me
+- 📧 **Email:** Mayankkappor54@gmail.com  
+- 💼 **LinkedIn:** https://linkedin.com/in/mayankkapoor  
+- 🐙 **GitHub:** https://github.com/mayankkapoor  
+
