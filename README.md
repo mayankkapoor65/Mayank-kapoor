@@ -79,14 +79,6 @@ I enjoy solving coding problems and exploring new technologies in my free time �
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankkapoor&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkapoor&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ⭐ **Thanks for visiting my profile!**  
 Feel free to explore my repositories and connect with me 😊
 
