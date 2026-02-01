@@ -16,15 +16,6 @@ I believe in learning by doing — writing code, breaking it, fixing it, and gro
 
 ---
 
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://github.com/mayankkapoor">GitHub</a> •
-  <a href="mailto:your-email@gmail.com">Email</a>
-</p>
-
----
-
 ## 💡 What I'm Learning & Building
 - 🌐 **Full Stack Web Development** (React, Node.js, Express, REST APIs)
 - ☁️ **Cloud Computing & DevOps Basics** (AWS, EC2)
