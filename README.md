@@ -85,6 +85,6 @@ Feel free to explore my repositories and connect with me 😊
 
 ## 📫 Connect with Me
 - 📧 **Email:** Mayankkappor54@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/mayankkapoor  
-- 🐙 **GitHub:** https://github.com/mayankkapoor  
+- 💼 **LinkedIn:** [https://linkedin.com/in/mayankkapoor  ](https://www.linkedin.com/in/mayank-kapoor-515954266/)
+- 🐙 **GitHub:** https://github.com/mayankkapoor65
 
